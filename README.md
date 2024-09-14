@@ -7,7 +7,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFmZjg4bzhpdnR4OXM5MHhrajR0dmkxYjY3emQwNjd4NHpvbmZoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 </div>
 <div align="center">
-    <h3>🚀 About Me</h3>
+    <h2>🚀 About Me</h2>
     <p>I'm a Full Stack Developer contributing to frontend and backend for web applications</p>
     <p>I have a solid foundational understanding of Natural Language Processing (NLP)</p>
     <p>In my free time, I enjoy reading diverse genres of books that interest me and solving problems on HackerRank</p>
