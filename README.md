@@ -11,6 +11,7 @@
     <p>I'm a Full Stack Developer contributing to frontend and backend for web applications</p>
     <p>I have a solid foundational understanding of Natural Language Processing (NLP)</p>
     <p>In my free time, I enjoy reading diverse genres of books that interest me and solving problems on HackerRank</p>
-    <p>How to reach me:-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/Lisa-Gihozo)</p>
+    <p>How to reach me: <a href="www.linkedin.com/in/Lisa-Gihozo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a></p>
 </div>
 
