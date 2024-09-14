@@ -5,7 +5,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a Full Stack Developer contributing to frontend and backend for web applications</p>
