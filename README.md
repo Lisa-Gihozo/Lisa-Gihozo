@@ -20,4 +20,9 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
 </div>
+<div></div>
+<div align="center">
+    <h2> 🔥 My Stats</h2>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lisa-Gihozo&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 
