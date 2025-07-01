@@ -30,6 +30,6 @@
 <div></div>
 <div align="center">
     <h2> 🔥 My Stats</h2>
-     <a href="https://github-readme-streak-stats.herokuapp.com/?user=Lisa-Gihozo&theme=vue-dark&hide_border=true" alt="Stats"/>
+     <a href="https://github-readme-streak-stats.herokuapp.com/?user=Lisa-Gihozo&theme=vue-dark&hide_border=true"></a>
 </div>
 
