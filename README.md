@@ -30,6 +30,6 @@
 <div></div>
 <div align="center">
     <h2> 🔥 My Stats</h2>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Lisa-Gihozo)](https://git.io/streak-stats)
+     <a href="https://github-readme-streak-stats.herokuapp.com/?user=Lisa-Gihozo&theme=vue-dark&hide_border=true" alt="Stats"/>
 </div>
 
