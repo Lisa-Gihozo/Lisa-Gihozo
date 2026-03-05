@@ -1,11 +1,6 @@
 <h1 align="center">
   Hey there 👋 
 </h1>
-
-<p align="center">
-  <strong>Aspiring Cybersecurity Professional | Security Researcher | Open Source Contributor</strong>
-</p>
-
 ---
 
 ### 🛡️ About Me
