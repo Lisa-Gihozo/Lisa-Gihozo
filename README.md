@@ -1,14 +1,10 @@
 <h1 align="center">
-  Hey there, I'm Lisa 👋 
+  Hey there 👋 
 </h1>
 
 <p align="center">
   <strong>Aspiring Cybersecurity Professional | Security Researcher | Open Source Contributor</strong>
 </p>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2V5M3p5c2RqNHQzaGZtenU0Nm45OHp3azZ3MDF5MXNmZzl4c25sMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNfIqjpCY1zqfaLmd8/giphy.gif" width="500" height="250"/>
-</div>
 
 ---
 
