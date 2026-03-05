@@ -1,7 +1,6 @@
 <h1 align="center">
-  Hey there 👋 
+  hey there 👋 
 </h1>
----
 
 ### 🛡️ About Me
 I am a developer transitioning into **Cybersecurity**, leveraging a strong foundation in Full Stack Development and NLP to understand and secure complex systems. My focus is on **Application Security**, **Vulnerability Research**, and **Network Defense**.
