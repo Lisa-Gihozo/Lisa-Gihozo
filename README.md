@@ -3,7 +3,7 @@
 </h1>
 
 ### 🛡️ About Me
-I am a developer transitioning into **Cybersecurity**, leveraging a strong foundation in Full Stack Development and NLP to understand and secure complex systems. My focus is on **Application Security**, **Vulnerability Research**, and **Network Defense**.
+I am a developer transitioning into **Cybersecurity**, leveraging a strong foundation in Full Stack Development to understand and secure complex systems. My focus is on **Application Security**, **Vulnerability Research**, and **Network Defense**.
 
 - 🔍 **Currently Learning:** OWASP Top 10, Network Penetration Testing, and Linux Hardening.
 - ⚡ **Security Mindset:** I use my development background to understand how apps are built, so I can better understand how they are broken.
@@ -41,10 +41,7 @@ I am a developer transitioning into **Cybersecurity**, leveraging a strong found
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="www.linkedin.com/in/lisa-gihozo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
