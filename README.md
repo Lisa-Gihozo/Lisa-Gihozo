@@ -32,7 +32,7 @@ I am a developer transitioning into **Cybersecurity**, leveraging a strong found
 
 ---
 
-### 📈 StATS
+### 📈 Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lisa-Gihozo&theme=vue-dark&hide_border=true"/>
 </div>
